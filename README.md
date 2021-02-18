@@ -1,4 +1,6 @@
-This project is taking an ipdata.co ip geolocation and returns it on a google map with the city and country title for your convenience. Enjoy ! 
+This project is taking an ipdata.co ip geolocation and returns it on a google map with the city and country title for your convenience. Enjoy!
+
+Live Demo - https://ipdata-googlemaps-geolocation.vercel.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
